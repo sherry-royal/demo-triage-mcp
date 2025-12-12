@@ -135,5 +135,3 @@ Contributions welcome! Please open an issue or submit a pull request.
 
 ---
 
-Built with ❤️ using [FastMCP](https://gofastmcp.com)
-
